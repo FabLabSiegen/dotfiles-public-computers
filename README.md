@@ -74,8 +74,6 @@ pip3 install dotmgr
 Get the dotfiles from this repo
 ```
 dotmgr -I https://github.com/FabLabSiegen/dotfiles-public-computers
-dotmgr -I
-
 ```
 Copy the dotfiles to your home
 ```

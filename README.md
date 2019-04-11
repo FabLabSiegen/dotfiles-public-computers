@@ -4,8 +4,12 @@ The config files for public computers used in the Lab.
 
 ## Set up a computer using these dotfiles
 
-A public lab computer should have a few software packages preinstalled. This is done by the use of homebrew and the dotmgr.
+A public lab (mac) computer should have a few software packages preinstalled. This is done by the use of homebrew and the dotmgr.
 Use this guide as User ```fablabstaff```
+
+The Brewfile is right now made for MacOS. But config files can also be useful for linux or BSD machines. For example configs for tmux, zsh, vi(m) and so on. So feel free to add dotfiles to this computer.
+When your dotfiles are plattform specific use the "tags" from dotmgr to just apply (parts) of the configs depending on the used operating system.
+
 ### Installation
 
 #### Install homebrew
